@@ -1,7 +1,7 @@
 ---
 title: C2M CONNEXION SERVICE
 publishDate: 2025-01-01 00:00:00
-img: /public/assets/all paneau.jpg
+img: /assets/all paneau.jpg
 img_alt: C2M CONNEXION
 description: |
   C2M CONNEXION SOCIETE DE PRESTATION DE SERVICE 
@@ -43,10 +43,10 @@ Engagement qualité : respect des normes, transparence et suivi régulier.
 <!-- ✅ CAROUSEL -->
 <div class="carousel" id="carousel">
   <div class="carousel-track" id="carousel-track">
-    <div class="carousel-slide"><img src="/public/assets/all paneau.jpg" alt="Image 1" loading="lazy" /></div>
-    <div class="carousel-slide"><img src="/public/assets/conciergerie.jpg" alt="Image 2" loading="lazy" /></div>
-    <div class="carousel-slide"><img src="/public/assets/produit.jpg" alt="Image 3" loading="lazy" /></div>
-    <div class="carousel-slide"><img src="/public/assets/tish shirt.jpg" alt="Image 4" loading="lazy" /></div>
+    <div class="carousel-slide"><img src="/assets/all paneau.jpg" alt="Image 1" loading="lazy" /></div>
+    <div class="carousel-slide"><img src="/assets/conciergerie.jpg" alt="Image 2" loading="lazy" /></div>
+    <div class="carousel-slide"><img src="/assets/produit.jpg" alt="Image 3" loading="lazy" /></div>
+    <div class="carousel-slide"><img src="/assets/tish shirt.jpg" alt="Image 4" loading="lazy" /></div>
   </div>
 
   <div class="carousel-buttons">

@@ -1,7 +1,7 @@
 ---
 title: C2M CONNEXION SERVICE
 publishDate: 2025-01-01 00:00:00
-img: assets/allpaneau.jpg
+img: /assets/allpaneau.jpg
 img_alt: C2M CONNEXION
 description: |
   C2M CONNEXION SOCIETE DE PRESTATION DE SERVICE 

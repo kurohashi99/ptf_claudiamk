@@ -1,8 +1,8 @@
 ---
 title: C2M CONNEXION SERVICE
-publishDate: 2025-01-01 00:00:00
+publishDate: 2025-03-01 00:00:00
 img: /assets/allpaneau.jpg
-img_alt: C2M CONNEXION
+img_alt: C2M CONNEXION service
 description: |
   C2M CONNEXION SOCIETE DE PRESTATION DE SERVICE 
 tags:
@@ -41,10 +41,10 @@ Engagement qualité : respect des normes, transparence et suivi régulier.
 
 
 <div class="carousel-container">
-  <div class="carousel-slide"><img src="/assets/allpaneau.jpg" alt="All Paneau" loading="lazy" /></div>
-  <div class="carousel-slide"><img src="/assets/conciergerie.jpg" alt="Conciergerie" loading="lazy" /></div>
-  <div class="carousel-slide"><img src="/assets/produit.jpg" alt="Produit" loading="lazy" /></div>
-  <div class="carousel-slide"><img src="/assets/tishshirt.jpg" alt="Tish Shirt" loading="lazy" /></div>
+  <div class="carousel-slide"><img src="assets/allpaneau.jpg" alt="All Paneau" loading="lazy" /></div>
+  <div class="carousel-slide"><img src="assets/conciergerie.jpg" alt="Conciergerie" loading="lazy" /></div>
+  <div class="carousel-slide"><img src="assets/produit.jpg" alt="Produit" loading="lazy" /></div>
+  <div class="carousel-slide"><img src="assets/tishshirt.jpg" alt="Tish Shirt" loading="lazy" /></div>
 </div>
 
 
